@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#add {
+  border-radius: 100%;
+  max-width: 14%;
+  width: 14%;
+  font-size: 200%;
+  background-color: purple;
+  color: whitesmoke;
+  margin-top: 25rem;
+  margin-left: 10rem;
+  position: fixed;
+}
+#clr-all {
+  font-size: 150%;
+  border-radius: 11%;
+  background-color: purple;
+  color: whitesmoke;
+  font-weight: bold;
+}
+#dlt {
+  border-radius: 11%;
+  background-color: purple;
+  color: whitesmoke;
+}
+#info {
+  background-color: red;
+  color: whitesmoke;
+  border-radius: 50%;
+  width: 8%;
+}
